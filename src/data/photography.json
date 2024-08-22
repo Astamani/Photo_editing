@@ -1,0 +1,144 @@
+{
+  "babyShoots": [
+    {
+      "id": 1,
+      "title": "Little Smiles",
+      "description": "Capturing the pure joy of your baby’s precious smile.",
+      "image": "/courses/babyshoot/b1.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "title": "Tiny Toes",
+      "description": "Cherishing the small wonders of babyhood, one step at a time.",
+      "image": "/courses/babyshoot/b2.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 3,
+      "title": "First Giggles",
+      "description": "Preserving the magic of your baby’s first laughter.",
+      "image": "/courses/babyshoot/b3.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "title": "Sweet Dreams",
+      "description": "The peaceful beauty of your baby’s quiet moments.",
+      "image": "/courses/babyshoot/b4.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 5,
+      "title": "Innocent Eyes",
+      "description": "Reflecting the wonder of the world through your baby’s eyes.",
+      "image": "/courses/babyshoot/b5.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 6,
+      "title": "Little Explorer",
+      "description": "Capturing the curiosity and adventures of your little one.",
+      "image": "/courses/babyshoot/b6.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 7,
+      "title": "Chubby Cheeks",
+      "description": "Highlighting the adorable charm of those chubby cheeks.",
+      "image": "/courses/babyshoot/b7.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 8,
+      "title": "Tiny Hugs",
+      "description": "The warmth and love in your baby’s tiny embraces.",
+      "image": "/courses/babyshoot/b8.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 9,
+      "title": "Bundle of Joy",
+      "description": "Celebrating the happiness your baby brings into your life.",
+      "image": "/courses/babyshoot/b9.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 10,
+      "title": "First Steps",
+      "description": "Documenting the excitement of your baby’s first steps.",
+      "image": "/courses/babyshoot/b10.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 1,
+      "title": "Moments of Grace",
+      "description": "Capturing the serene beauty of motherhood.",
+      "image": "/courses/maternity/m1.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 2,
+      "title": "Radiant Glow",
+      "description": "Celebrating the natural glow that comes with expecting.",
+      "image": "/courses/maternity/m2.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 3,
+      "title": "Awaiting Joy",
+      "description": "Preserving the anticipation and love as you await your little one.",
+      "image": "/courses/maternity/m3.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 4,
+      "title": "Mother’s Embrace",
+      "description": "The tender connection between mother and child before birth.",
+      "image": "/courses/maternity/m4.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 5,
+      "title": "New Beginnings",
+      "description": "Honoring the start of a beautiful new chapter in your life.",
+      "image": "/courses/maternity/m5.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 6,
+      "title": "Blooming Love",
+      "description": "The blossoming of love and life during pregnancy.",
+      "image": "/courses/maternity/m6.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 7,
+      "title": "Waiting for You",
+      "description": "Capturing the sweet moments of waiting for your baby.",
+      "image": "/courses/maternity/m7.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 8,
+      "title": "Expecting Miracles",
+      "description": "The miracle of life growing within.",
+      "image": "/courses/maternity/m8.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 9,
+      "title": "Tender Moments",
+      "description": "The quiet, tender moments of expecting a new life.",
+      "image": "/courses/maternity/m9.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 10,
+      "title": "Loving Anticipation",
+      "description": "Documenting the love and excitement as you prepare for your baby’s arrival.",
+      "image": "/courses/maternity/m10.jpg",
+      "isFeatured": true
+    }
+  ]
+}
