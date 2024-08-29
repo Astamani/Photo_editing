@@ -23,6 +23,17 @@ function Navbar({ className }: { className?: string }) {
           >
           </MenuItem>
         </Link>
+        <Link href={"/"}>
+          <MenuItem
+            setActive={setActive} active={active} item="Our Services"
+          >
+            <HoveredLink href="/web-dev">Pre- wedding</HoveredLink>
+            <HoveredLink href="/interface-design">Wedding</HoveredLink>
+            <HoveredLink href="/interface-design">Newborn, Kids, Maternity</HoveredLink>
+            <HoveredLink href="/seo">Indoor & Outdoor</HoveredLink>
+            <HoveredLink href="/branding">Naming Ceremonies</HoveredLink>
+          </MenuItem>
+        </Link>
         {/* <Link href={"/contact"}>
           <MenuItem setActive={setActive} active={active} item="Contact Us">
 
