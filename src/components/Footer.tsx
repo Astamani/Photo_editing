@@ -43,7 +43,7 @@ function Footer() {
           <p>Phone: (+91) 8857033036</p>
         </div>
       </div>
-      <p className="text-center text-xs pt-8">© 2024 Photo Studio. All rights reserved.</p>
+      <p className="text-center text-xs pt-8">Navin Ganeri © 2024 Photo Studio. All rights reserved.</p>
     </footer>
   )
 }
