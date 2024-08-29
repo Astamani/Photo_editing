@@ -21,7 +21,7 @@ function Footer() {
               Facebook
             </a>
             <a
-              href=""
+              href="https://youtube.com/@ngnavin-nh2mz?si=aHaE7JxAXzJCjMHF"
               className="hover:text-white transition-colors duration-300"
             >
               YouTube
