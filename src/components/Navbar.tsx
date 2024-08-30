@@ -28,11 +28,11 @@ function Navbar({ className }: { className?: string }) {
             setActive={setActive} active={active} item="Our Services"
           >
             <div className="flex flex-col space-y-4 text-sm">
-              <HoveredLink href="/web-dev">Pre- wedding</HoveredLink>
-              <HoveredLink href="/interface-design">Wedding</HoveredLink>
-              <HoveredLink href="/interface-design">Newborn, Kids, Maternity</HoveredLink>
-              <HoveredLink href="/seo">Indoor & Outdoor</HoveredLink>
-              <HoveredLink href="/branding">Naming Ceremonies</HoveredLink>
+              <HoveredLink href="/photoservices">Pre- wedding</HoveredLink>
+              <HoveredLink href="/photoservices">Wedding</HoveredLink>
+              <HoveredLink href="/photoservices">Newborn, Kids, Maternity</HoveredLink>
+              <HoveredLink href="/photoservices">Indoor & Outdoor</HoveredLink>
+              <HoveredLink href="/photoservices">Naming Ceremonies</HoveredLink>
             </div>
           </MenuItem>
         </Link>
