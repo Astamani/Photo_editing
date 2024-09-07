@@ -3,7 +3,7 @@ import React from 'react'
 
 const page = () => {
     return (
-        <div className='w-full h-auto antialiased py-28'>
+        <div className='w-full h-auto antialiased py-28 bg-gray-100 dark:bg-gray-900'>
             <h1 className="text-4xl md:text-8xl text-center font-sans font-bold mb-8 text-white">
                 Services
             </h1>
