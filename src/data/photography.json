@@ -12,7 +12,7 @@
       "title": "Tiny Toes",
       "description": "Cherishing the small wonders of babyhood, one step at a time.",
       "image": "/courses/babyshoot/b2.jpg",
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": 3,
@@ -96,7 +96,7 @@
       "title": "Mother’s Embrace",
       "description": "The tender connection between mother and child before birth.",
       "image": "/courses/maternity/m4.jpg",
-      "isFeatured": false
+      "isFeatured": true
     },
     {
       "id": 5,
@@ -124,7 +124,7 @@
       "title": "Expecting Miracles",
       "description": "The miracle of life growing within.",
       "image": "/courses/maternity/m8.jpg",
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": 9,
@@ -138,6 +138,76 @@
       "title": "Loving Anticipation",
       "description": "Documenting the love and excitement as you prepare for your baby’s arrival.",
       "image": "/courses/maternity/m10.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 1,
+      "title": "Eternal Vows",
+      "description": "Capturing the heartfelt moments as you exchange vows.",
+      "image": "/courses/preweding/p11.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 2,
+      "title": "The First Look",
+      "description": "The magical moment when the couple sees each other for the first time on their big day.",
+      "image": "/courses/preweding/p9.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 3,
+      "title": "Bridal Elegance",
+      "description": "Highlighting the beauty and grace of the bride in her stunning attire.",
+      "image": "/courses/preweding/p8.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 4,
+      "title": "Groom's Style",
+      "description": "Showcasing the groom’s charm and personality in his wedding attire.",
+      "image": "/courses/preweding/p7.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 5,
+      "title": "The Ceremony",
+      "description": "Preserving the sacred and emotional moments of your wedding ceremony.",
+      "image": "/courses/preweding/p6.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 6,
+      "title": "Ring Exchange",
+      "description": "Capturing the symbol of eternal love during the exchange of rings.",
+      "image": "/courses/preweding/p5.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 7,
+      "title": "Family Moments",
+      "description": "Cherishing the love and support of family on your special day.",
+      "image": "/courses/preweding/p4.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 8,
+      "title": "Reception Fun",
+      "description": "The joy and celebration during your wedding reception.",
+      "image": "/courses/preweding/p3.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 9,
+      "title": "First Dance",
+      "description": "Documenting the romance and beauty of your first dance as a married couple.",
+      "image": "/courses/preweding/p1.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 10,
+      "title": "Happily Ever After",
+      "description": "Capturing the joy as you begin your new life together.",
+      "image": "/courses/preweding/p2.jpg",
       "isFeatured": true
     }
   ]
