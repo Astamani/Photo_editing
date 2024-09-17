@@ -27,7 +27,7 @@ function Footer() {
               YouTube
             </a>
             <a
-              href="https://www.facebook.com/navin.ganeri?mibextid=ZbWKwL"
+              href="https://www.instagram.com/n_g_navin_photoartist?igsh=OXA3NHR2NnlraGU0"
               className="hover:text-white transition-colors duration-300"
             >
               Instagram
@@ -38,7 +38,7 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
           <p>Maharashtra, India</p>
           <p>Pune towarline, Nigdi</p>
-          <Link href={'https://g.page/r/CbrFN817INX4EBM/review'}><p>Googlemap</p></Link>
+          <Link href={'https://g.page/r/CbrFN817INX4EBM/review'}>Googlemap</Link>
           <p>Email: navinganeri@gmail.com </p>
           <p>Phone: (+91) 8857033036</p>
         </div>

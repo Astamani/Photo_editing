@@ -8,7 +8,7 @@ const Logo = () => {
         alt="Logo"
         className='m-0 p-0'
         width={300} // Adjust the width as needed
-        height={100} // Adjust the height as needed
+        height={50} // Adjust the height as needed
       />
     </div>
   );
