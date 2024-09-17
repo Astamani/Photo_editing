@@ -7,8 +7,8 @@ const Logo = () => {
         src="/courses/logo/Phot_logo.jpg" // Replace with your logo's path
         alt="Logo"
         className='m-0 p-0'
-        width={200} // Adjust the width as needed
-        height={50} // Adjust the height as needed
+        width={300} // Adjust the width as needed
+        height={100} // Adjust the height as needed
       />
     </div>
   );

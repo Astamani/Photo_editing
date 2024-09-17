@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { Spotlight } from "./ui/Spotlight"
 import { Button } from "./ui/moving-border";
+import Logo from "./Logo";
 
 function HeroSection() {
   return (
@@ -11,7 +12,10 @@ function HeroSection() {
         className="-top-40 left-0 md:left-60 md:-top-20"
         fill="red"
       />
-      <div className="p-4 relative z-10 w-full text-center" >
+      <div className="p-4 relative z-10 w-full text-center flex items-center justify-center flex-col" >
+        <div>
+          <Logo/>
+        </div>
         <h1
           className="p-2 mt-20 md:mt-0 text-4xl md:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400"
         >Capturing Moments, Creating Memories</h1>

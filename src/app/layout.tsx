@@ -22,10 +22,10 @@ export default function RootLayout({
         <div className="relative w-full flex items-center justify-center ">
           <Navbar />
         </div>
-        <div className="m-0 p-0 absolute">
-          {/* Your page content here */}
+        {/* <div className="m-0 p-0 absolute  min-[300px]:visible ">
+          
           <Logo />
-        </div>
+        </div> */}
         {children}
       </body>
     </html>
